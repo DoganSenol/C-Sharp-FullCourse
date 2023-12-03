@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C63BCD88-96FB-4D7D-ACC8-5785AD2B065C}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
+		ReadMe.nd = ReadMe.nd
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndOperator", "AndOperator\AndOperator.csproj", "{0913088C-951C-4C72-BF8D-E718F22F067D}"
