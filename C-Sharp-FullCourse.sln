@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElseNotBlock", "IfElseNot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniATM", "MiniAtm\MiniATM.csproj", "{DEE025F5-ABCE-40BE-88F6-08A210992DDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMI-Calculator", "BMI-Calculator\BMI-Calculator.csproj", "{733F3D7C-9AEC-4140-9C66-8F152E6B033C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,9 +191,16 @@ Global
 		{DEE025F5-ABCE-40BE-88F6-08A210992DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEE025F5-ABCE-40BE-88F6-08A210992DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEE025F5-ABCE-40BE-88F6-08A210992DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{733F3D7C-9AEC-4140-9C66-8F152E6B033C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{733F3D7C-9AEC-4140-9C66-8F152E6B033C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{733F3D7C-9AEC-4140-9C66-8F152E6B033C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{733F3D7C-9AEC-4140-9C66-8F152E6B033C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{733F3D7C-9AEC-4140-9C66-8F152E6B033C} = {C63BCD88-96FB-4D7D-ACC8-5785AD2B065C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {01B6E038-996E-4AF1-89B5-A1DD4D7C77C9}

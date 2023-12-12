@@ -23,6 +23,10 @@ namespace MiniATM
 
             Console.WriteLine("Welcome to the ATM");
             Console.WriteLine("Please select the operation you would like to perform");
+            Console.WriteLine("1 for View Balance");
+            Console.WriteLine("2 for Withdraw Money");
+            Console.WriteLine("3 for Deposit Money");
+            Console.WriteLine("q for tor exit");
             String choise = Console.ReadLine();
 
             if(choise == "1")
