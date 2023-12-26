@@ -73,6 +73,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniATM-SwitchCase", "MiniA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoop", "ForLoop\ForLoop.csproj", "{62705793-A85F-4591-9D44-B1420585A6BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForInForLoop", "ForInForLoop\ForInForLoop.csproj", "{573F2009-5B99-471F-A5F5-1BB7B550C4F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{62705793-A85F-4591-9D44-B1420585A6BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62705793-A85F-4591-9D44-B1420585A6BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62705793-A85F-4591-9D44-B1420585A6BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{573F2009-5B99-471F-A5F5-1BB7B550C4F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{573F2009-5B99-471F-A5F5-1BB7B550C4F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{573F2009-5B99-471F-A5F5-1BB7B550C4F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{573F2009-5B99-471F-A5F5-1BB7B550C4F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
