@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWhileLoop", "DoWhileLoop\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Break-Continue", "Break-Continue\Break-Continue.csproj", "{F3F24918-CC1C-4B8B-989F-9402FE086171}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplication Table", "Multiplication Table\Multiplication Table.csproj", "{7CAD5816-B727-4290-9730-F82A4BA07B8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +233,10 @@ Global
 		{F3F24918-CC1C-4B8B-989F-9402FE086171}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3F24918-CC1C-4B8B-989F-9402FE086171}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3F24918-CC1C-4B8B-989F-9402FE086171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CAD5816-B727-4290-9730-F82A4BA07B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CAD5816-B727-4290-9730-F82A4BA07B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CAD5816-B727-4290-9730-F82A4BA07B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CAD5816-B727-4290-9730-F82A4BA07B8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
